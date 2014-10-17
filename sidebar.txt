@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbi:home|Door43 (gbi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbi|d43-gbi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbi/archive/master.zip|d43-gbi.zip]]
+
+**Recent Changes**
+{{changes>ns = gbi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbi|Ethnologue data]]
+
